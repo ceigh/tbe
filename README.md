@@ -15,7 +15,7 @@ Start
 
 - Deps
 
-`cd telegramBotEnv`
+`cd tbe`
 
 `npm i`
 
