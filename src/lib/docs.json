@@ -1,0 +1,4 @@
+{
+  "start": "Hello!!!",
+  "help": "- Return addition of two numbers\n `/sum`\n- Check help\n `/help`"
+}
